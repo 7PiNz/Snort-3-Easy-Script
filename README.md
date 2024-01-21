@@ -4,7 +4,6 @@ This bash script automates the installation and basic configuration of Snort, a 
 
 # Snort 3 Easy Script
 
-![Snort](snort-logo.png)
 
 **Automated Installation and Configuration of Snort 3**
 
