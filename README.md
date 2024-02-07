@@ -53,7 +53,7 @@ Before using this script, ensure that:
 Start by cloning this repository to your local machine:
 
 ```bash
-https://github.com/7PiNz/Snort-3-Easy-Script.git)
+https://github.com/7PiNz/Snort-3-Easy-Script.git
 ```
 
 ### 2. Navigate to the Script Directory
